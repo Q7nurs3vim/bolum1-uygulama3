@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\bin\Debug\bolum1-uygulama3.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\bin\Debug\bolum1-uygulama3.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\bin\Debug\bolum1-uygulama3.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1_uygulama3.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1_uygulama3.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\bolum1-uygulama3\bolum1-uygulama3\obj\Debug\bolum1-uygulama3.pdb
